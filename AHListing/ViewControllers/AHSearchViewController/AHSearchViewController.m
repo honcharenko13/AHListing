@@ -36,8 +36,12 @@ static NSString *kAHSearchViewControllerSearchBarAlertMessage = @"Please enter k
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    UITapGestureRecognizer *tapRecognizer = [[UITapGestureRecognizer alloc] initWithTarget:self
+                                                                                    action:@selector(closeKeyboard)];
+    [self.view addGestureRecognizer:tapRecognizer];
     self.categoriesListArray = [NSArray array];
     [self loadCategoryListFromServer];
+    
 }
 
 #pragma mark - UIPickerViewDataSource
@@ -62,6 +66,12 @@ static NSString *kAHSearchViewControllerSearchBarAlertMessage = @"Please enter k
     return (NSString *)categoryDictionary[kAHSearchViewControllerLongNameKeyString];
 }
 
+#pragma mark - UISearchBarDelegate
+
+- (void)searchBarSearchButtonClicked:(UISearchBar *)searchBar {
+    [self.submitButton sendActionsForControlEvents: UIControlEventTouchUpInside];
+}
+
 #pragma mark - Actions
 
 - (IBAction)submitButtonWasTapped:(UIButton *)sender {
@@ -77,6 +87,10 @@ static NSString *kAHSearchViewControllerSearchBarAlertMessage = @"Please enter k
                                      message:kAHSearchViewControllerSearchBarAlertMessage
                               viewController:self];
     }
+}
+
+- (void)closeKeyboard {
+    [self.searchBar resignFirstResponder];
 }
 
 #pragma mark - Helpers

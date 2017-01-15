@@ -9,9 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @class AHParsedListing;
+@class ListingItem;
 
 @interface AHLoadedListingCollectionViewCell : UICollectionViewCell
 
-- (void)configureCellWithListing:(AHParsedListing *)listing;
+- (void)configureCellWithParsedListing:(AHParsedListing *)listing;
+- (void)configureCellWithSavedListing:(ListingItem *)listing;
 
 @end

@@ -18,6 +18,7 @@ typedef void(^BlockError)(NSError *error);
 
 - (void)getCategoriesListOnSuccess:(BlockSuccess)blockArray onFailure:(BlockError)blockError;
 - (void)getListingListWithCategoryName:(NSString *)categoryName keywords:(NSString *)keywords
+                                 count:(double)count offset:(double)offset
                              onSuccess:(BlockSuccess)blockArray onFailure:(BlockError)blockError;
 - (void)getImageUrlWithListingId:(NSNumber *)listingId onSuccess:(BlockImageSuccess)blockSuccess
                                                        onFailure:(BlockError)blockError;

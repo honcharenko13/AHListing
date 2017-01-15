@@ -8,7 +8,6 @@ target 'AHListing' do
   # Pods for AHListing
 pod "AFNetworking", "~> 2.5"
 pod "MagicalRecord"
-pod 'HexColors', '~> 4.0'
 pod 'SDWebImage', '~> 3.8'
 pod "MBProgressHUD", "~> 0.9.1"
 

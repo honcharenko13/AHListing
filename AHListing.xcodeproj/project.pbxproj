@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		63E840B02B55A718CDF3DBF5 /* libPods-AHListing.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 588CD39EC99962EAF73A34ED /* libPods-AHListing.a */; };
 		8407077C1E2A87E900766E51 /* AHListing.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 840707781E2A87E900766E51 /* AHListing.xcdatamodeld */; };
-		840707A91E2A945C00766E51 /* ListingItem+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 840707A71E2A945C00766E51 /* ListingItem+CoreDataProperties.m */; };
 		840707AF1E2AA04F00766E51 /* AHRestManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 840707AE1E2AA04F00766E51 /* AHRestManager.m */; };
 		840707B91E2AC7FC00766E51 /* AHSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 840707B81E2AC7FC00766E51 /* AHSearchViewController.m */; };
 		840707BF1E2AC86E00766E51 /* AHDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 840707BE1E2AC86E00766E51 /* AHDetailViewController.m */; };
@@ -19,6 +18,7 @@
 		840707D11E2B071300766E51 /* AHParsedListing.m in Sources */ = {isa = PBXBuildFile; fileRef = 840707D01E2B071300766E51 /* AHParsedListing.m */; };
 		840707DA1E2B0AD200766E51 /* AHListingsCollectionViewFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 840707D91E2B0AD200766E51 /* AHListingsCollectionViewFlowLayout.m */; };
 		840707DE1E2B0F3000766E51 /* AHAlertManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 840707DD1E2B0F3000766E51 /* AHAlertManager.m */; };
+		843F9C4F1E2BC5CD004E71FE /* ListingItem+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 843F9C4D1E2BC5CD004E71FE /* ListingItem+CoreDataProperties.m */; };
 		848241A11E293527005D342A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 848241A01E293527005D342A /* main.m */; };
 		848241A41E293527005D342A /* AHAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 848241A31E293527005D342A /* AHAppDelegate.m */; };
 		848241AA1E293527005D342A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 848241A81E293527005D342A /* Main.storyboard */; };
@@ -46,10 +46,6 @@
 		588CD39EC99962EAF73A34ED /* libPods-AHListing.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AHListing.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7518026FB21A0113CB58F68C /* Pods-AHListingTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AHListingTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AHListingTests/Pods-AHListingTests.debug.xcconfig"; sourceTree = "<group>"; };
 		840707791E2A87E900766E51 /* AHListing.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AHListing.xcdatamodel; sourceTree = "<group>"; };
-		840707A41E2A945C00766E51 /* ListingItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListingItem.h; sourceTree = "<group>"; };
-		840707A51E2A945C00766E51 /* ListingItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListingItem.m; sourceTree = "<group>"; };
-		840707A61E2A945C00766E51 /* ListingItem+CoreDataProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ListingItem+CoreDataProperties.h"; sourceTree = "<group>"; };
-		840707A71E2A945C00766E51 /* ListingItem+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ListingItem+CoreDataProperties.m"; sourceTree = "<group>"; };
 		840707AD1E2AA04F00766E51 /* AHRestManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AHRestManager.h; sourceTree = "<group>"; };
 		840707AE1E2AA04F00766E51 /* AHRestManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AHRestManager.m; sourceTree = "<group>"; };
 		840707B71E2AC7FC00766E51 /* AHSearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AHSearchViewController.h; sourceTree = "<group>"; };
@@ -68,6 +64,10 @@
 		840707D91E2B0AD200766E51 /* AHListingsCollectionViewFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AHListingsCollectionViewFlowLayout.m; sourceTree = "<group>"; };
 		840707DC1E2B0F3000766E51 /* AHAlertManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AHAlertManager.h; sourceTree = "<group>"; };
 		840707DD1E2B0F3000766E51 /* AHAlertManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AHAlertManager.m; sourceTree = "<group>"; };
+		843F9C4A1E2BC5CD004E71FE /* ListingItem+CoreDataClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ListingItem+CoreDataClass.h"; sourceTree = "<group>"; };
+		843F9C4B1E2BC5CD004E71FE /* ListingItem+CoreDataClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ListingItem+CoreDataClass.m"; sourceTree = "<group>"; };
+		843F9C4C1E2BC5CD004E71FE /* ListingItem+CoreDataProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ListingItem+CoreDataProperties.h"; sourceTree = "<group>"; };
+		843F9C4D1E2BC5CD004E71FE /* ListingItem+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ListingItem+CoreDataProperties.m"; sourceTree = "<group>"; };
 		8482419C1E293527005D342A /* AHListing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AHListing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		848241A01E293527005D342A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		848241A21E293527005D342A /* AHAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AHAppDelegate.h; sourceTree = "<group>"; };
@@ -142,10 +142,10 @@
 		840707A31E2A93C000766E51 /* AHListingItem */ = {
 			isa = PBXGroup;
 			children = (
-				840707A41E2A945C00766E51 /* ListingItem.h */,
-				840707A51E2A945C00766E51 /* ListingItem.m */,
-				840707A61E2A945C00766E51 /* ListingItem+CoreDataProperties.h */,
-				840707A71E2A945C00766E51 /* ListingItem+CoreDataProperties.m */,
+				843F9C4A1E2BC5CD004E71FE /* ListingItem+CoreDataClass.h */,
+				843F9C4B1E2BC5CD004E71FE /* ListingItem+CoreDataClass.m */,
+				843F9C4C1E2BC5CD004E71FE /* ListingItem+CoreDataProperties.h */,
+				843F9C4D1E2BC5CD004E71FE /* ListingItem+CoreDataProperties.m */,
 			);
 			path = AHListingItem;
 			sourceTree = "<group>";
@@ -538,6 +538,7 @@
 				840707AF1E2AA04F00766E51 /* AHRestManager.m in Sources */,
 				840707DA1E2B0AD200766E51 /* AHListingsCollectionViewFlowLayout.m in Sources */,
 				840707BF1E2AC86E00766E51 /* AHDetailViewController.m in Sources */,
+				843F9C4F1E2BC5CD004E71FE /* ListingItem+CoreDataProperties.m in Sources */,
 				840707CD1E2B061F00766E51 /* AHLoadedListingCollectionViewCell.m in Sources */,
 				840707DE1E2B0F3000766E51 /* AHAlertManager.m in Sources */,
 				8407077C1E2A87E900766E51 /* AHListing.xcdatamodeld in Sources */,
@@ -546,7 +547,6 @@
 				840707D11E2B071300766E51 /* AHParsedListing.m in Sources */,
 				840707B91E2AC7FC00766E51 /* AHSearchViewController.m in Sources */,
 				840707C81E2AE53000766E51 /* AHLoadedListViewController.m in Sources */,
-				840707A91E2A945C00766E51 /* ListingItem+CoreDataProperties.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

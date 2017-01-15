@@ -8,6 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
+@class AHParsedListing;
+@class ListingItem;
+
 @interface AHDetailViewController : UIViewController
+
+@property (nonatomic) AHParsedListing *currentParsedListing;
+@property (nonatomic) ListingItem *currentSavedListing;
+@property (nonatomic) BOOL isSaved;
 
 @end

@@ -2,7 +2,7 @@
 //  ListingItem+CoreDataClass.h
 //  
 //
-//  Created by Mac on 1/14/17.
+//  Created by Mac on 1/15/17.
 //
 //  This file was automatically generated and should not be edited.
 //

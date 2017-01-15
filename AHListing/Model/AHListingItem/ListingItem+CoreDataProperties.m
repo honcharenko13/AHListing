@@ -2,7 +2,7 @@
 //  ListingItem+CoreDataProperties.m
 //  
 //
-//  Created by Mac on 1/14/17.
+//  Created by Mac on 1/15/17.
 //
 //  This file was automatically generated and should not be edited.
 //
@@ -15,9 +15,11 @@
 	return [[NSFetchRequest alloc] initWithEntityName:@"ListingItem"];
 }
 
-@dynamic imageUrl;
+@dynamic thumbnailImageUrl;
 @dynamic listingDescription;
 @dynamic name;
 @dynamic price;
+@dynamic fullImageUrl;
+@dynamic listingId;
 
 @end

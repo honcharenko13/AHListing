@@ -7,8 +7,19 @@
 //
 
 #import "AHSavedListViewController.h"
+#import "AHLoadedListingCollectionViewCell.h"
+#import "AHDetailViewController.h"
+#import <MagicalRecord/MagicalRecord.h>
+#import "ListingItem+CoreDataClass.h"
 
-@interface AHSavedListViewController ()
+static NSString *kAHSavedListViewControllerCellIdentifier = @"savedLIstingCellIdentifier";
+static NSString *kAHSavedListViewControllerDetailViewControllerIdentifier = @"DetailViewControllerIdentifier";
+
+@interface AHSavedListViewController () <UICollectionViewDataSource, UICollectionViewDelegate>
+
+@property (weak, nonatomic) IBOutlet UICollectionView *collectionView;
+
+@property (nonatomic) NSArray *savedListingsArray;
 
 @end
 
@@ -16,22 +27,40 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    
+    self.savedListingsArray = [NSArray array];
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+- (void)viewWillAppear:(BOOL)animated {
+    [super viewWillAppear:animated];
+    
+    self.savedListingsArray = [ListingItem MR_findAll];
+    [self.collectionView reloadData];
 }
 
-/*
-#pragma mark - Navigation
+#pragma mark - UICollectionViewDataSource
 
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
+- (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section {
+    return self.savedListingsArray.count;
 }
-*/
+
+- (__kindof UICollectionViewCell *)collectionView:(UICollectionView *)collectionView
+                           cellForItemAtIndexPath:(NSIndexPath *)indexPath {
+    AHLoadedListingCollectionViewCell *cell = [collectionView
+                                               dequeueReusableCellWithReuseIdentifier:kAHSavedListViewControllerCellIdentifier
+                                               forIndexPath:indexPath];
+    [cell configureCellWithSavedListing:self.savedListingsArray[indexPath.item]];
+    return cell;
+}
+
+#pragma mark - UICollectionViewDataSource
+
+- (void)collectionView:(UICollectionView *)collectionView didSelectItemAtIndexPath:(NSIndexPath *)indexPath {
+    AHDetailViewController *controller = [self.storyboard
+                                          instantiateViewControllerWithIdentifier:kAHSavedListViewControllerDetailViewControllerIdentifier];
+    controller.currentSavedListing = self.savedListingsArray[indexPath.item];
+    controller.isSaved = YES;
+    [self.navigationController pushViewController:controller animated:YES];
+}
 
 @end
