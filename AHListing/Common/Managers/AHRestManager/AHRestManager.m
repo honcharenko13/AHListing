@@ -19,7 +19,7 @@ static NSString const *kAHRestManagerCategoryNameKeyString = @"category_name";
 
 @interface AHRestManager ()
 
-@property (strong, nonatomic) AFHTTPSessionManager *httpSessionManager;
+@property (nonatomic) AFHTTPSessionManager *httpSessionManager;
 
 @end
 
@@ -41,7 +41,6 @@ static NSString const *kAHRestManagerCategoryNameKeyString = @"category_name";
                            kAHRestManagerGetCategoriesListPartUrl, kAHRestManagerApiKey];
     [[AFHTTPSessionManager manager] GET:stringUrl parameters:nil
                                 success:^(NSURLSessionDataTask * _Nonnull task, id  _Nonnull responseObject) {
-                                    NSLog(@"%@", responseObject);
                                     NSMutableArray *categoryList = [NSMutableArray array];
                                     for (NSDictionary *category  in responseObject[@"results"]) {
                                         [categoryList addObject:@{kAHRestManagerLongNameKeyString : category[kAHRestManagerLongNameKeyString],
