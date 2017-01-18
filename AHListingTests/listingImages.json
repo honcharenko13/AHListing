@@ -1,0 +1,71 @@
+{
+    count = 3;
+    pagination =     {
+    };
+    params =     {
+        "listing_id" = 263914131;
+    };
+    results =     (
+                {
+            blue = 71;
+            brightness = 52;
+            "creation_tsz" = 1452810848;
+            "full_height" = 1500;
+            "full_width" = 1500;
+            green = 98;
+            "hex_code" = 876247;
+            hue = 25;
+            "is_black_and_white" = 0;
+            "listing_id" = 263914131;
+            "listing_image_id" = 903478513;
+            rank = 1;
+            red = 135;
+            saturation = 47;
+            "url_170x135" = "https://img1.etsystatic.com/117/0/10106853/il_170x135.903478513_rgfe.jpg";
+            "url_570xN" = "https://img1.etsystatic.com/117/0/10106853/il_570xN.903478513_rgfe.jpg";
+            "url_75x75" = "https://img1.etsystatic.com/117/0/10106853/il_75x75.903478513_rgfe.jpg";
+            "url_fullxfull" = "https://img1.etsystatic.com/117/0/10106853/il_fullxfull.903478513_rgfe.jpg";
+        },
+                {
+            blue = 59;
+            brightness = 49;
+            "creation_tsz" = 1452810848;
+            "full_height" = 1500;
+            "full_width" = 1500;
+            green = 86;
+            "hex_code" = 7F563B;
+            hue = 24;
+            "is_black_and_white" = 0;
+            "listing_id" = 263914131;
+            "listing_image_id" = 903478501;
+            rank = 2;
+            red = 127;
+            saturation = 53;
+            "url_170x135" = "https://img1.etsystatic.com/111/0/10106853/il_170x135.903478501_lwzb.jpg";
+            "url_570xN" = "https://img1.etsystatic.com/111/0/10106853/il_570xN.903478501_lwzb.jpg";
+            "url_75x75" = "https://img1.etsystatic.com/111/0/10106853/il_75x75.903478501_lwzb.jpg";
+            "url_fullxfull" = "https://img1.etsystatic.com/111/0/10106853/il_fullxfull.903478501_lwzb.jpg";
+        },
+                {
+            blue = 53;
+            brightness = 43;
+            "creation_tsz" = 1452810848;
+            "full_height" = 1500;
+            "full_width" = 1500;
+            green = 76;
+            "hex_code" = 6F4C35;
+            hue = 24;
+            "is_black_and_white" = 0;
+            "listing_id" = 263914131;
+            "listing_image_id" = 903723466;
+            rank = 3;
+            red = 111;
+            saturation = 52;
+            "url_170x135" = "https://img0.etsystatic.com/114/0/10106853/il_170x135.903723466_box5.jpg";
+            "url_570xN" = "https://img0.etsystatic.com/114/0/10106853/il_570xN.903723466_box5.jpg";
+            "url_75x75" = "https://img0.etsystatic.com/114/0/10106853/il_75x75.903723466_box5.jpg";
+            "url_fullxfull" = "https://img0.etsystatic.com/114/0/10106853/il_fullxfull.903723466_box5.jpg";
+        }
+    );
+    type = ListingImage;
+}

@@ -20,29 +20,44 @@ PODS:
   - AFNetworking/UIKit (2.6.3):
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
-  - HexColors (4.0.0)
   - MagicalRecord (2.3.2):
     - MagicalRecord/Core (= 2.3.2)
   - MagicalRecord/Core (2.3.2)
   - MBProgressHUD (0.9.2)
+  - OCMock (3.3.1)
+  - OHHTTPStubs (4.6.0):
+    - OHHTTPStubs/Default (= 4.6.0)
+  - OHHTTPStubs/Core (4.6.0)
+  - OHHTTPStubs/Default (4.6.0):
+    - OHHTTPStubs/Core
+    - OHHTTPStubs/JSON
+    - OHHTTPStubs/NSURLSession
+    - OHHTTPStubs/OHPathHelpers
+  - OHHTTPStubs/JSON (4.6.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/NSURLSession (4.6.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/OHPathHelpers (4.6.0)
   - SDWebImage (3.8.2):
     - SDWebImage/Core (= 3.8.2)
   - SDWebImage/Core (3.8.2)
 
 DEPENDENCIES:
   - AFNetworking (~> 2.5)
-  - HexColors (~> 4.0)
   - MagicalRecord
   - MBProgressHUD (~> 0.9.1)
+  - OCMock (~> 3.2)
+  - OHHTTPStubs (~> 4.6.0)
   - SDWebImage (~> 3.8)
 
 SPEC CHECKSUMS:
   AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
-  HexColors: 5f95843ef89aff6a72e1fd3a8ebabf205cc43379
   MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
   MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  OCMock: f3f61e6eaa16038c30caa5798c5e49d3307b6f22
+  OHHTTPStubs: cb1aefbbeb4de4e741644455d4b945538e5248a2
   SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
 
-PODFILE CHECKSUM: 82003db58718d25381918b7d569dd89ec0ed154e
+PODFILE CHECKSUM: a8df4416b34fbda80e6d101b0855478b1c039cac
 
 COCOAPODS: 1.1.1

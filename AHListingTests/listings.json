@@ -1,0 +1,1857 @@
+{
+    count = 18302;
+    pagination =     {
+        "effective_limit" = 25;
+        "effective_offset" = 0;
+        "effective_page" = 1;
+        "next_offset" = 25;
+        "next_page" = 2;
+    };
+    params =     {
+        "accepts_gift_cards" = false;
+        category = toys;
+        color = "<null>";
+        "color_accuracy" = 0;
+        "geo_level" = city;
+        keywords = Car;
+        lat = "<null>";
+        limit = "25.000000";
+        location = "<null>";
+        lon = "<null>";
+        "max_price" = "<null>";
+        "min_price" = "<null>";
+        offset = "0.000000";
+        page = "<null>";
+        region = "<null>";
+        "sort_on" = created;
+        "sort_order" = down;
+        tags = "<null>";
+        "translate_keywords" = false;
+    };
+    results =     (
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484695784;
+            "currency_code" = GBP;
+            description = "MATCHBOX Lesney VOLKSWAGON CAMPER Vintage 1960s Matchbox Volkswagon Camper Caravette vw Unpainted for Restoration by Lesney by Lesney, made in Gt Britain\n\nThis rare vintage item is in restoration condition. All operational parts are functional.\n\nOverall, a beautiful toy. Please view all pictures for overall condition and please do ask if you have any questions. \n\n\nSHOP WITH CONFIDENCE. \nships WORLDWIDE from Scotland, United Kingdom, and package and handle your item with care. One family to another.\n\nALL ITEMS COME WITH A MONEY BACK GUARANTEE!\n\n\nLOOKING FOR SOMETHING IN PARTICULAR\nIf you\U2019re after something special, but have not seen it while browsing my shop, please feel free to send me a message. I may have other items waiting to be listed or happen across the item you are after while sourcing stock.\n\nSHIPPING\nIf you have any special delivery requirements, please message me and I&#39;ll do my best to meet your needs.\n\nPlease be sure to click my Heart to Favourite My Store. Top of page, under banner. Thanking you in advance. \n\nFEEDBACK:\nI am committed to 100% customer satisfaction. If for any reason you are not completely satisfied with your purchase, please contact me before leaving feedback to give me the opportunity to resolve the situation.\n\nIf you are satisfied please leave ***** . 5 stars are very important for me and I truly appreciate your feedback :)       \n\nTHANK YOU\nFinally, thank you so much for taking the time to visit my store today. Please feel free to message me with an questions and do save me as one of your favorite stores.";
+            "ending_tsz" = 1495060184;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484695784;
+            "listing_id" = 479220803;
+            materials =             (
+                Metal,
+                Plastic,
+                Decals,
+                Rubber
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 16;
+            occasion = "<null>";
+            "original_creation_tsz" = 1474027816;
+            price = "24.00";
+            "processing_max" = 3;
+            "processing_min" = 1;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = 23368053454;
+            "shop_section_id" = 18611492;
+            state = active;
+            "state_tsz" = 1484659213;
+            style = "<null>";
+            tags =             (
+                "Matchbox Cars",
+                Matchbox,
+                Diecast,
+                Toy,
+                "Matchbox Lesney",
+                Lesney,
+                1960s,
+                Volkswagen,
+                Camper,
+                Caravette,
+                Restoration,
+                "Volkswagon Camper",
+                Cars
+            );
+            "taxonomy_id" = 2898;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys,
+                "Miniature Toys"
+            );
+            title = "MATCHBOX Lesney VOLKSWAGON CAMPER Vintage 1960s Matchbox Volkswagon Camper Caravette vw for Restoration Matchbox Cars";
+            url = "https://www.etsy.com/listing/479220803/matchbox-lesney-volkswagon-camper?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 82199841;
+            views = 86;
+            "when_made" = 1960s;
+            "who_made" = "someone_else";
+        },
+                {
+            "category_id" = 68889208;
+            "category_path" =             (
+                Toys,
+                Children
+            );
+            "category_path_ids" =             (
+                69150393,
+                68889208
+            );
+            "creation_tsz" = 1484695408;
+            "currency_code" = USD;
+            description = "Here we have a vintage Alfa Romeo Plastic Toy Car.  \n\nThis is a RARE Find! \n \nIt is a little dirty but in good vintage condition.\n\nAn Awesome addition to a car/ toy collection.\n\nALSO ......\n\n15 unopened Hot Wheels Mystery cars.\n\nK7624 &#39;07 \n\n157-180 / 180 \n\nThis is  a fun find ....for yourself or as a gift!!  \n\nThis package will be shipped Priority with insurance and tracking \n\nThanks for looking!   \n\nBe sure to check back for more FUN FINDS in Ya Yaz Attic!";
+            "ending_tsz" = 1495059808;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484695409;
+            "listing_id" = 459717938;
+            materials =             (
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 0;
+            occasion = "<null>";
+            "original_creation_tsz" = 1471553814;
+            price = "19.95";
+            "processing_max" = 3;
+            "processing_min" = 1;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = "<null>";
+            "shop_section_id" = 20475963;
+            state = active;
+            "state_tsz" = 1482184818;
+            style = "<null>";
+            tags =             (
+                "Hot Wheels Mystery",
+                "Mystery Car",
+                "Alfa Romeo",
+                "Collectible Toys",
+                "Toy Car",
+                "Hot Wheels",
+                "Vintage toy",
+                "Plastic Toy car",
+                "Blue alfa romeo",
+                Matchbox,
+                "Matchbox car",
+                "match box cars",
+                "push cars"
+            );
+            "taxonomy_id" = 1614;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys,
+                "Pretend Play"
+            );
+            title = "Hot Wheels Mystery cars Unopened and Alfa Romeo Plastic Toy Car";
+            url = "https://www.etsy.com/listing/459717938/hot-wheels-mystery-cars-unopened-and?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 91725697;
+            views = 15;
+            "when_made" = 1970s;
+            "who_made" = "someone_else";
+        },
+                {
+            "category_id" = 68889208;
+            "category_path" =             (
+                Toys,
+                Children
+            );
+            "category_path_ids" =             (
+                69150393,
+                68889208
+            );
+            "creation_tsz" = 1484695331;
+            "currency_code" = USD;
+            description = "Missing the tops of the cars. Measures 10.5&quot; wide\n\nWe ship Monday - Friday via USPS 1st class, parcel post & Priority Mail.  Please let us know if you need more information, need to make other arrangements or anything else. We love the hope it shines in our work.";
+            "ending_tsz" = 1495059731;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = 8;
+            "item_length" = 8;
+            "item_weight" = 16;
+            "item_weight_units" = "<null>";
+            "item_width" = 8;
+            language = "en-US";
+            "last_modified_tsz" = 1484695344;
+            "listing_id" = 232470776;
+            materials =             (
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 3;
+            occasion = "<null>";
+            "original_creation_tsz" = 1430921437;
+            price = "5.00";
+            "processing_max" = 1;
+            "processing_min" = 1;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = 15677623726;
+            "shop_section_id" = "<null>";
+            state = active;
+            "state_tsz" = 1484658013;
+            style = "<null>";
+            tags =             (
+            );
+            "taxonomy_id" = 1614;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys,
+                "Pretend Play"
+            );
+            title = "1980 Cloud Car TLC Empire Strike Back";
+            url = "https://www.etsy.com/listing/232470776/1980-cloud-car-tlc-empire-strike-back?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 21201451;
+            views = 30;
+            "when_made" = 1980s;
+            "who_made" = "someone_else";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484695217;
+            "currency_code" = USD;
+            description = "Realistic looking for better imaginative play\nMachine cut\nDecals fit the toy accurately\n\nYou can easily add a customized license plate with this set for $3, just purchase this listing:\n\nhttps://www.etsy.com/listing/265462870/add-a-custom-license-plate-to-a-set-of\n\nat the same time as you order this one, and allow for an extra day or two for me to put it together for you.\n\n\n\n\nProfessionally made, with industry standard equipment, (not a home printer) from peel, rip, and tear resistant glossy material, and machine cut for accuracy. These are UV resistant for 4-5 years, and are 100% waterproof. They are made to last outdoors, for a long time. My own designs, which are inspired by the original decals that came factory, with the toys, and they fit accurately. All decals are cut separately for shipping. I have tons of decals yet to be listed, if you are looking for a different one, please email me, I just might have it, or I can custom design it for you. However custom design is available if I have the extra time to do it.\n\n\nI offer a flexible return policy, so if they don&#39;t fit your project you can return them (in the same condition as you received them) for only the cost of your return postage.\n\nAll designs and images are copyright protected\n\U00a9 Melissa Jackson, The Toy Restore\U00ae 2012";
+            "ending_tsz" = 1495059617;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484695217;
+            "listing_id" = 238508905;
+            materials =             (
+                "replacement stickers",
+                "waterproof decals",
+                "waterproof stickers",
+                "outdoor decals"
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 22;
+            occasion = "<null>";
+            "original_creation_tsz" = 1435475832;
+            price = "6.99";
+            "processing_max" = 3;
+            "processing_min" = 1;
+            quantity = 2;
+            recipient = children;
+            "shipping_template_id" = 22639485199;
+            "shop_section_id" = 17300653;
+            state = active;
+            "state_tsz" = 1482806204;
+            style = "<null>";
+            tags =             (
+                stickers,
+                decals,
+                Step2,
+                "Step 2",
+                Push,
+                Around,
+                Car,
+                "Ride-on",
+                "push around Buggy",
+                replacement,
+                Buggy,
+                "Ride on",
+                Child
+            );
+            "taxonomy_id" = 1580;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys
+            );
+            title = "New Replacement Decals Stickers fits Step 2 Push Around Buggy Car Wagon Boy";
+            url = "https://www.etsy.com/listing/238508905/new-replacement-decals-stickers-fits?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 41042357;
+            views = 4755;
+            "when_made" = "2010_2017";
+            "who_made" = collective;
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484695197;
+            "currency_code" = USD;
+            description = "2 MIAMI DOLPHINS Weather and Fade Resistant Cornhole (or they can be placed on other surfaces) Decals. Decals are approximately 12&quot;x12&quot;.\n\nSet of 2 Vinyl decals for your cornhole boards(or they can be placed elsewhere). High quality, durable vinyl with a 7 year lifespan. Each decal comes with a high quality clear transfer backing for easier application---just peel the backing, apply, and remove the transfer tape!\n\nThese stick to finished cornhole boards wonderfully! We recommend sealing the decals to your boards with a clear poly after you have installed the decals on your boards.\n\nWant to mix and match our decals? Simply purchase the listing and indicate the 2 teams you&#39;d like!";
+            "ending_tsz" = 1495059597;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484695197;
+            "listing_id" = 252990750;
+            materials =             (
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 8;
+            occasion = "<null>";
+            "original_creation_tsz" = 1445480028;
+            price = "12.90";
+            "processing_max" = 2;
+            "processing_min" = 1;
+            quantity = 208;
+            recipient = "<null>";
+            "shipping_template_id" = "<null>";
+            "shop_section_id" = 18000215;
+            state = active;
+            "state_tsz" = 1471494347;
+            style = "<null>";
+            tags =             (
+                "EVERYTHING ELSE",
+                CORNHOLE,
+                "CORNHOLE WRAPS",
+                "CORNHOLE DECALS",
+                "CORNHOLE LIGHTS",
+                "WALL DECAL",
+                "CAR TRUCK DECAL",
+                NFL,
+                "CORNHOLE BAGS",
+                "MIAMI DOLPHINS"
+            );
+            "taxonomy_id" = 2379;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                "Sports & Outdoor Recreation",
+                "Lawn Games",
+                "Bean Bag Toss"
+            );
+            title = "MIAMI DOLPHINS Set of 2 Vinyl Cornhole DECAL Logo Wall Sticker Car Truck 12&quot; Size";
+            url = "https://www.etsy.com/listing/252990750/miami-dolphins-set-of-2-vinyl-cornhole?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 70418390;
+            views = 549;
+            "when_made" = "made_to_order";
+            "who_made" = collective;
+        },
+                {
+            "category_id" = 68889208;
+            "category_path" =             (
+                Toys,
+                Children
+            );
+            "category_path_ids" =             (
+                69150393,
+                68889208
+            );
+            "creation_tsz" = 1484694789;
+            "currency_code" = USD;
+            description = "This fun set of cars and trucks felt board pieces is perfect for your little one! These are great for independent, quiet play or group activities. Each piece is made from felt and will stick to felt or flannel and measures about 2.5 inches tall. This 10 piece set include a cars, taxis, trucks, and a fire truck.\n\nAvailable in 2.5 inch or 5 inch. It is also available uncut, with a savings of 25%. If you choose this option you will receive a sheet with the pieces that you can cut on your own.";
+            "ending_tsz" = 1495059189;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 1;
+            "is_customizable" = 1;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "0.5";
+            "item_length" = "9.5";
+            "item_weight" = 2;
+            "item_weight_units" = "<null>";
+            "item_width" = "7.5";
+            language = "en-US";
+            "last_modified_tsz" = 1484694789;
+            "listing_id" = 236884619;
+            materials =             (
+                Felt,
+                "Iron on transfer"
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 78;
+            occasion = "<null>";
+            "original_creation_tsz" = 1434247137;
+            price = "7.50";
+            "processing_max" = 5;
+            "processing_min" = 3;
+            quantity = 74;
+            recipient = "<null>";
+            "shipping_template_id" = 15837966889;
+            "shop_section_id" = 15550588;
+            state = active;
+            "state_tsz" = 1453143249;
+            style = "<null>";
+            tags =             (
+                "Felt board",
+                homeschool,
+                "felt board pieces",
+                "flannel board",
+                "felt board story",
+                "quiet book",
+                "busy book",
+                "felt story",
+                Montessori,
+                "flannel story",
+                "story time",
+                "Cars and Trucks",
+                "Felt Transportation"
+            );
+            "taxonomy_id" = 1614;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys,
+                "Pretend Play"
+            );
+            title = "Felt board, Cars and Trucks, homeschool, felt board pieces, flannel board, felt board story, quiet book, busy book, felt story, Felt Vehicle";
+            url = "https://www.etsy.com/listing/236884619/felt-board-cars-and-trucks-homeschool?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 37556670;
+            views = 803;
+            "when_made" = "2010_2017";
+            "who_made" = "i_did";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484694021;
+            "currency_code" = CAD;
+            description = "This beautifully handcrafted oak transport truck is a two-sided display for Hot Wheels, Dinky and Matchbox cars. Whether for the discerning child or avid collector in your life, the display features stack, wheel, and tail light detailing. It&#39;s a beautiful, solid piece that is sure to stand the test of time.\n\n**Cars not included**";
+            "ending_tsz" = 1495058421;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 1;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484694021;
+            "listing_id" = 263914131;
+            materials =             (
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 7;
+            occasion = "<null>";
+            "original_creation_tsz" = 1452810848;
+            price = "180.00";
+            "processing_max" = 3;
+            "processing_min" = 1;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = "<null>";
+            "shop_section_id" = 18139531;
+            state = active;
+            "state_tsz" = 1465082260;
+            style = "<null>";
+            tags =             (
+                Hotwheels,
+                Hot,
+                Wheels,
+                Matchbos,
+                Car,
+                Truck,
+                Toy,
+                Collect
+            );
+            "taxonomy_id" = 1580;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys
+            );
+            title = "Transport Truck Display Case";
+            url = "https://www.etsy.com/listing/263914131/transport-truck-display-case?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 27046839;
+            views = 160;
+            "when_made" = "2010_2017";
+            "who_made" = "i_did";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484693953;
+            "currency_code" = USD;
+            description = "Cr\U00e8me Goat Neck Buddy is a premium fur, prewashed for safety handmade in the USA with car and hand. This buddy is my best seller, so know this design is popular with alot of kids and parents.\n  Goats are a favorite of many people. They are popular among farmers, farmer markets  and many school age kids and their parents. \n  This goat would cuddle a kid in a carseat, comfort a patient in the hospital, and steady a chemo patient, or help a parent sleep upright while cuddling the patient. \n  I make these from my own design and no 2 are exactly alike. They are all made by me at this time. \nFeel the love, \nBuy handmade in the USA, \nHelen Powers";
+            "ending_tsz" = 1495058353;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = 9;
+            "item_length" = 18;
+            "item_weight" = 28;
+            "item_weight_units" = "<null>";
+            "item_width" = 17;
+            language = "en-US";
+            "last_modified_tsz" = 1484694629;
+            "listing_id" = 471169839;
+            materials =             (
+                "All new ingredients",
+                "safety eyes",
+                "new polyfill stuffing",
+                "safety eyes and nose",
+                "Premium fur",
+                fleece
+            );
+            "non_taxable" = 1;
+            "num_favorers" = 5;
+            occasion = "<null>";
+            "original_creation_tsz" = 1470725702;
+            price = "36.00";
+            "processing_max" = 3;
+            "processing_min" = 1;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = "<null>";
+            "shop_section_id" = "<null>";
+            state = active;
+            "state_tsz" = 1481150273;
+            style = "<null>";
+            tags =             (
+                "Stuffed Animal",
+                "goat lover",
+                "birthday any age",
+                "Neck Animals",
+                "Neck Buddies",
+                "farm animal",
+                "car seat accessories",
+                "travel accessory",
+                "Made in USA",
+                "goat pillow",
+                "hospital comfort",
+                "Easter gift"
+            );
+            "taxonomy_id" = 1629;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys,
+                "Stuffed Animals & Plushies"
+            );
+            title = "Ivory And Gray Premium Fur Neck Buddy, Handmade in the USA, travel buddy, chemo or post surgery prop, gift for all ages, Easter Goat";
+            url = "https://www.etsy.com/listing/471169839/ivory-and-gray-premium-fur-neck-buddy?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 15625969;
+            views = 60;
+            "when_made" = "2010_2017";
+            "who_made" = "i_did";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484693454;
+            "currency_code" = USD;
+            description = "2 ATLANTA FALCONS Weather and Fade Resistant Cornhole (or they can be placed on other surfaces) Decals. Decals are approximately 12&quot;x12&quot;.\n\nSet of 2 Vinyl decals for your cornhole boards(or they can be placed elsewhere). High quality, durable vinyl with a 7 year lifespan. Each decal comes with a high quality clear transfer backing for easier application---just peel the backing, apply, and remove the transfer tape!\n\nThese stick to finished cornhole boards wonderfully! We recommend sealing the decals to your boards with a clear poly after you have installed the decals on your boards.\n\nWant to mix and match our decals? Simply purchase the listing and indicate the 2 teams you&#39;d like!";
+            "ending_tsz" = 1495057854;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484693454;
+            "listing_id" = 252991420;
+            materials =             (
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 10;
+            occasion = "<null>";
+            "original_creation_tsz" = 1445480407;
+            price = "12.90";
+            "processing_max" = 2;
+            "processing_min" = 1;
+            quantity = 217;
+            recipient = "<null>";
+            "shipping_template_id" = "<null>";
+            "shop_section_id" = 18000215;
+            state = active;
+            "state_tsz" = 1481178389;
+            style = "<null>";
+            tags =             (
+                "EVERYTHING ELSE",
+                CORNHOLE,
+                "CORNHOLE WRAPS",
+                "CORNHOLE DECALS",
+                "CORNHOLE LIGHTS",
+                "WALL DECAL",
+                "CAR TRUCK DECAL",
+                NFL,
+                "CORNHOLE BAGS",
+                "ATLANTA FALCONS"
+            );
+            "taxonomy_id" = 2379;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                "Sports & Outdoor Recreation",
+                "Lawn Games",
+                "Bean Bag Toss"
+            );
+            title = "ATLANTA FALCONS Set of 2 Vinyl Cornhole DECAL Logo Wall Sticker Car Truck 12&quot; Size";
+            url = "https://www.etsy.com/listing/252991420/atlanta-falcons-set-of-2-vinyl-cornhole?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 70418390;
+            views = 491;
+            "when_made" = "made_to_order";
+            "who_made" = collective;
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484693110;
+            "currency_code" = USD;
+            description = "Please view pictures closely for description! \nAuburn rubber Toys\nIf you have any other questions or offers, Please feel free to ask!";
+            "ending_tsz" = 1495057510;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = 32;
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484693110;
+            "listing_id" = 505989727;
+            materials =             (
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 0;
+            occasion = "<null>";
+            "original_creation_tsz" = 1484693110;
+            price = "28.95";
+            "processing_max" = 5;
+            "processing_min" = 3;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = "<null>";
+            "shop_section_id" = 15729215;
+            state = active;
+            "state_tsz" = 1484693110;
+            style = "<null>";
+            tags =             (
+                toy,
+                decor,
+                trailer,
+                steel,
+                "die-cast",
+                marx,
+                tonka,
+                ertl,
+                japan,
+                rubber,
+                auburn,
+                car,
+                truck
+            );
+            "taxonomy_id" = 1622;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys,
+                "Push & Pull Toys",
+                Vehicles
+            );
+            title = "VTG Lot of Plastic/Rubber Toy Cars! Auburn";
+            url = "https://www.etsy.com/listing/505989727/vtg-lot-of-plasticrubber-toy-cars-auburn?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 46204214;
+            views = 1;
+            "when_made" = 1960s;
+            "who_made" = "someone_else";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484693105;
+            "currency_code" = USD;
+            description = "This 1950s Chevrolet pickup truck miniature is based on the 3100 model.  It is a beautiful example of this much loved works vehicle and would make a great home decoration.  \n \nAfter extensive research about what business owners wanted from a truck, Chevrolet&#39;s designers designed a truck with a three man bench seat.  It should come as no surprise that the Chevrolet pickups were number one in sales during every year of the Advance Design era and this 1950 3100 Chevy pickup is one of THE most desirable models from that era.  It is still a very popular vehicle for customization as it is a classic and iconic truck from the 1950s.   \n \nThis miniature toy truck decoration is made from light gauge tin metal and is painted blue.  The tires are made of hard plastic.   \n\nSize;\nLength - 13.5 Inches\nWidth - 6.0 Inches\nHeight - 5.75 Inches\n \n*.-~\U00b7*\U2019\U02dc\U00a8\U00af`\U00b7\U00b8*\U00b8\U00b7`\U00af\U00a8\U02dc\U2019*\U00b7~-.* LIMITED STOCKS AVAILABLE!  ONCE SOLD, THEY&#39;RE GONE \n\nGet 10% discount on any other purchased item you see in our store when you buy this item!\nWe will reimburse your PayPal account immediately after you check out.\n \nIf you want to see all the available tin toy cars just go to the link below: \nhttps://www.etsy.com/shop/phantomas2011?section_id=11907493  \n \n________________________________________________ \nHappy customers said this:  \n \n*** Great communication, beautiful piece, arrived on time. Thank you!  \n \n*** Just as advertised. Very quick deal. Ships to Canada without difficulty.  \n \n*** Well packaged, looks great, exactly as advertised, could not be more pleased, Thanks! ^_^  \n \n_________________________________________________ \n \n\U00b0\U00b0\U00b0 We offer speedy, fully insured international shipping.";
+            "ending_tsz" = 1495057505;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 1;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484693105;
+            "listing_id" = 150547209;
+            materials =             (
+                "Tin Metal",
+                "Blue Paint",
+                "Hard Plastic",
+                "White Paint"
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 165;
+            occasion = "<null>";
+            "original_creation_tsz" = 1367952026;
+            price = "129.99";
+            "processing_max" = 1;
+            "processing_min" = 1;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = "<null>";
+            "shop_section_id" = 11907493;
+            state = active;
+            "state_tsz" = 1456276372;
+            style = "<null>";
+            tags =             (
+                "work truck",
+                "chevy pickup truck",
+                "1950s chevy truck",
+                "chevrolet pickup",
+                "model 3100",
+                "works vehicle",
+                "desk ornament",
+                "gift for  him",
+                "home office decor",
+                "home decoration",
+                memorabilia,
+                "gift for him",
+                "tin metal car truck"
+            );
+            "taxonomy_id" = 1622;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys,
+                "Push & Pull Toys",
+                Vehicles
+            );
+            title = "1950s Chevrolet Pickup Truck - Tin Metal Car Toy Miniature Works Vehicle Model 3100 in Blue Room Decor";
+            url = "https://www.etsy.com/listing/150547209/1950s-chevrolet-pickup-truck-tin-metal?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 15139135;
+            views = 2003;
+            "when_made" = "before_1998";
+            "who_made" = "someone_else";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484692692;
+            "currency_code" = USD;
+            description = "Please view pictures closely for description! \nThere is a broad assortment some oldies up to 1980&#39;s\nIf you have any other questions or offers, Please feel free to ask!";
+            "ending_tsz" = 1495057092;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = 32;
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484696349;
+            "listing_id" = 492500420;
+            materials =             (
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 0;
+            occasion = "<null>";
+            "original_creation_tsz" = 1484692692;
+            price = "19.95";
+            "processing_max" = 5;
+            "processing_min" = 3;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = "<null>";
+            "shop_section_id" = 15729215;
+            state = active;
+            "state_tsz" = 1484692692;
+            style = "<null>";
+            tags =             (
+                toy,
+                decor,
+                trailer,
+                steel,
+                "die-cast",
+                cast,
+                marx,
+                tonka,
+                ertl,
+                tin,
+                japan,
+                lesney,
+                matchbox
+            );
+            "taxonomy_id" = 1622;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys,
+                "Push & Pull Toys",
+                Vehicles
+            );
+            title = "VTG Lot of Unique Toy Cars!";
+            url = "https://www.etsy.com/listing/492500420/vtg-lot-of-unique-toy-cars?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 46204214;
+            views = 2;
+            "when_made" = 1970s;
+            "who_made" = "someone_else";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484692027;
+            "currency_code" = USD;
+            description = "Please view pictures closely for description! \nThey are 4&quot;-8&quot; long\nIf you have any other questions or offers, Please feel free to ask!";
+            "ending_tsz" = 1495056427;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = 32;
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484695686;
+            "listing_id" = 505984901;
+            materials =             (
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 1;
+            occasion = "<null>";
+            "original_creation_tsz" = 1484692027;
+            price = "34.95";
+            "processing_max" = 5;
+            "processing_min" = 3;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = "<null>";
+            "shop_section_id" = 15729215;
+            state = active;
+            "state_tsz" = 1484692027;
+            style = "<null>";
+            tags =             (
+                toy,
+                diecast,
+                decor,
+                trailer,
+                truck,
+                steel,
+                "die-cast",
+                cast,
+                iron,
+                racecar,
+                tootsietoy,
+                marx,
+                arcade
+            );
+            "taxonomy_id" = 1622;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys,
+                "Push & Pull Toys",
+                Vehicles
+            );
+            title = "VTG Lot of Toy Cars!";
+            url = "https://www.etsy.com/listing/505984901/vtg-lot-of-toy-cars?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 46204214;
+            views = 2;
+            "when_made" = 1960s;
+            "who_made" = "someone_else";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484691667;
+            "currency_code" = USD;
+            description = "Each sign is approximately 2.25&quot; tall and 1/2&quot; wide . Panel thickness is .010&quot;. Silver solder construction. Silver and orange enamel paint.  Hand applied, screen printed graphics. Finished with an enamel, semi-gloss clear coat.\n\nSold individually. Suitable for use with any HO or HOn3 layout or similarly scaled diorama.";
+            "ending_tsz" = 1495056067;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 1;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "0.125";
+            "item_length" = "2.5";
+            "item_weight" = "0.25";
+            "item_weight_units" = "<null>";
+            "item_width" = "1.5";
+            language = "en-US";
+            "last_modified_tsz" = 1484691667;
+            "listing_id" = 266757271;
+            materials =             (
+                Brass
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 6;
+            occasion = "<null>";
+            "original_creation_tsz" = 1454546322;
+            price = "5.50";
+            "processing_max" = 10;
+            "processing_min" = 5;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = 20936878436;
+            "shop_section_id" = 13654657;
+            state = active;
+            "state_tsz" = 1475896212;
+            style = "<null>";
+            tags =             (
+                signs,
+                HO,
+                "HO gauge",
+                "model trains",
+                "model cars",
+                dioramas,
+                "1 to 87th scale",
+                cars,
+                car,
+                "model car",
+                display,
+                models
+            );
+            "taxonomy_id" = 1798;
+            "taxonomy_path" =             (
+                "Art & Collectibles",
+                "Dolls & Miniatures",
+                Miniatures
+            );
+            title = "1/87 scale (HO) Brass Construction Sign- 36&quot; x 36&quot; Dead End";
+            url = "https://www.etsy.com/listing/266757271/187-scale-ho-brass-construction-sign-36?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 33629159;
+            views = 15;
+            "when_made" = "2010_2017";
+            "who_made" = "i_did";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484691666;
+            "currency_code" = USD;
+            description = "Each sign is approximately 2.25&quot; tall and 1/2&quot; wide . Panel thickness is .010&quot;. Silver solder construction. Silver and Yellow enamel paint.  Hand applied, screen printed graphics. Finished with an enamel, semi-gloss clear coat.\n\nSold individually. Suitable for use with any HO or HOn3 layout or similarly scaled diorama.";
+            "ending_tsz" = 1495056066;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 1;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "0.125";
+            "item_length" = "2.5";
+            "item_weight" = "0.25";
+            "item_weight_units" = "<null>";
+            "item_width" = "1.5";
+            language = "en-US";
+            "last_modified_tsz" = 1484691666;
+            "listing_id" = 266861612;
+            materials =             (
+                Brass
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 1;
+            occasion = "<null>";
+            "original_creation_tsz" = 1454546237;
+            price = "5.50";
+            "processing_max" = 10;
+            "processing_min" = 5;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = 20936878436;
+            "shop_section_id" = 13654657;
+            state = active;
+            "state_tsz" = 1475895614;
+            style = "<null>";
+            tags =             (
+                signs,
+                HO,
+                "HO gauge",
+                "model trains",
+                "model cars",
+                dioramas,
+                "1 to 87th scale",
+                cars,
+                car,
+                "model car",
+                display,
+                models
+            );
+            "taxonomy_id" = 1798;
+            "taxonomy_path" =             (
+                "Art & Collectibles",
+                "Dolls & Miniatures",
+                Miniatures
+            );
+            title = "1/87 scale (HO) Brass Warning Sign- 36&quot; x 36&quot; Wildlife - Bear";
+            url = "https://www.etsy.com/listing/266861612/187-scale-ho-brass-warning-sign-36-x-36?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 33629159;
+            views = 18;
+            "when_made" = "2010_2017";
+            "who_made" = "i_did";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484691666;
+            "currency_code" = USD;
+            description = "Each sign is approximately 2.25&quot; tall and 1/2&quot; wide . Panel thickness is .010&quot;. Silver solder construction. Silver and Yellow enamel paint.  Hand applied, screen printed graphics. Finished with an enamel, semi-gloss clear coat.\n\nSold individually. Suitable for use with any HO or HOn3 layout or similarly scaled diorama.";
+            "ending_tsz" = 1495056066;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 1;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "0.125";
+            "item_length" = "2.5";
+            "item_weight" = "0.25";
+            "item_weight_units" = "<null>";
+            "item_width" = "1.5";
+            language = "en-US";
+            "last_modified_tsz" = 1484691666;
+            "listing_id" = 266863494;
+            materials =             (
+                Brass
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 1;
+            occasion = "<null>";
+            "original_creation_tsz" = 1454547111;
+            price = "5.50";
+            "processing_max" = 10;
+            "processing_min" = 5;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = 20936878436;
+            "shop_section_id" = 13654657;
+            state = active;
+            "state_tsz" = 1475896211;
+            style = "<null>";
+            tags =             (
+                signs,
+                HO,
+                "HO gauge",
+                "model trains",
+                "model cars",
+                dioramas,
+                "1 to 87th scale",
+                cars,
+                car,
+                "model car",
+                display,
+                models
+            );
+            "taxonomy_id" = 1798;
+            "taxonomy_path" =             (
+                "Art & Collectibles",
+                "Dolls & Miniatures",
+                Miniatures
+            );
+            title = "1/87 scale (HO) Brass Warning Sign- 36&quot; x 36&quot; Intersection w/storage Right";
+            url = "https://www.etsy.com/listing/266863494/187-scale-ho-brass-warning-sign-36-x-36?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 33629159;
+            views = 7;
+            "when_made" = "2010_2017";
+            "who_made" = "i_did";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484691125;
+            "currency_code" = USD;
+            description = "Custom made Hubley rat rod car. This awesome car was built from 2 different cars. Cool details, all metal frame and body. Vintage hot rod decals. Size is 9 by 3 inches.";
+            "ending_tsz" = 1495055525;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = 5;
+            "item_length" = 10;
+            "item_weight" = 32;
+            "item_weight_units" = "<null>";
+            "item_width" = 5;
+            language = "en-US";
+            "last_modified_tsz" = 1484694787;
+            "listing_id" = 505981023;
+            materials =             (
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 0;
+            occasion = "<null>";
+            "original_creation_tsz" = 1484691125;
+            price = "45.00";
+            "processing_max" = 2;
+            "processing_min" = 1;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = "<null>";
+            "shop_section_id" = "<null>";
+            state = active;
+            "state_tsz" = 1484691125;
+            style = "<null>";
+            tags =             (
+            );
+            "taxonomy_id" = 1552;
+            "taxonomy_path" =             (
+                "Toys & Games"
+            );
+            title = "Hubley vintage metal car rat rod custom";
+            url = "https://www.etsy.com/listing/505981023/hubley-vintage-metal-car-rat-rod-custom?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 105459931;
+            views = 0;
+            "when_made" = "2010_2017";
+            "who_made" = "i_did";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484690608;
+            "currency_code" = EUR;
+            description = "Original OSTHEIMER wooden figure (marked). Wooden toy. KNIGHT&#39;S CASTLE accessories: stair car / staircase cart. VINTAGE\n\n\nstair car / staircase cart\nPiec of the Ostheimer play castle / fortress / knight\U00b4s castle made of wood\n- No longer listed / produced =&gt; rarity -\nSize: 17 cm (L) x 10 cm (H) x 7.5 cm (W)\n\n\n---------------\nAll pieces of the knight&#39;s castle are made from solid alder wood entirely by hand.\nPlayful child can immerse themself in the world of knights and fairy tales and relive stories of legends and fairy tales.\nKinderkram / Ostheimer products are made from certified materials and comply with the toy safety standards.\nRecommended for children over 3 years.\n---------------\n\n\nCondition: Age accordingly overall relatively good, played condition.\nLack: Clearly visible paintings with green crayon.\n=&gt; See photos\n\n\n----------------------\nWooden toys made by Ostheimer / Imaginative Worlds of Play, Caringly Crafted by Hand\n\nHighest quality for children. Toys entirely made by hand.\n\nFor many decades, Ostheimer Wooden Toys have brought an adorable and lovely image of the world into many children\U00b4s rooms. \n\nOstheimer-Figures are hand-crafted in Germany, Ostheimer lumber comes from sustainable domestic forestry. Each product is a unique item individually shaped with love and care. Thus, Ostheimer toys allow children to immerse themselves into the vivid imaginative world of play.\nAll materials used in Ostheimer toys are certified. They guarantee not only toys of the highest quality but also safety for your child at play.\n\nRecommended for children over 3 years.\n\nAwarded &quot;spiel gut&quot;.\n\n\n(See also: http://www.ostheimer.de/)\n----------------------\n\n\nWish you much fun with the knight&#39;s castle piece\nideenreich-berlin.de\n\n\n\nFind more unusual vintage items here:\nhttps://www.etsy.com/shop/ideenreichBerlin?section_id=12877923\n\n*** Please note the shop department &quot;FINAL SALE&quot; (there you will find articles from all categories, which are now reduced by at least 50%) \nand \nmy monthly action in which I offer one item group for a special price (information about the current discount campaign can be found in the information box in my shop) ***\n\nThank you!";
+            "ending_tsz" = 1495055008;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484690608;
+            "listing_id" = 262871083;
+            materials =             (
+                wood,
+                Holz
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 5;
+            occasion = "<null>";
+            "original_creation_tsz" = 1452164598;
+            price = "39.00";
+            "processing_max" = 2;
+            "processing_min" = 1;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = 3114848557;
+            "shop_section_id" = 18805977;
+            state = active;
+            "state_tsz" = 1452344194;
+            style =             (
+                Waldorf
+            );
+            tags =             (
+                Vintage,
+                ideenreichBerlin,
+                "Made in Germany",
+                "Highest quality",
+                "made by hand",
+                "wooden figure",
+                "wooden toy",
+                "KNIGHT'S CASTLE",
+                "Original OSTHEIMER",
+                "castle accessories",
+                "VINTAGE Ostheimer",
+                "stair car",
+                "staircase cart"
+            );
+            "taxonomy_id" = 1580;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys
+            );
+            title = "Original OSTHEIMER wooden figure (marked). Wooden toy. KNIGHT&#39;S CASTLE accessories: stair car / staircase cart. Vintage";
+            url = "https://www.etsy.com/listing/262871083/original-ostheimer-wooden-figure-marked?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 28510778;
+            views = 26;
+            "when_made" = "before_1998";
+            "who_made" = "someone_else";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484690425;
+            "currency_code" = CAD;
+            description = "pouch for 6 littles cars\nroad made with upcycled pants\noutside Pocket made with upcycled curtains\nclose with button on fold pouch\n\nmachine wash on gentle cycle and hang to dry\nmade in a house without pets and free of smoke\n\ncars not include";
+            "ending_tsz" = 1495054825;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 1;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484690425;
+            "listing_id" = 479325963;
+            materials =             (
+                coton,
+                button,
+                bouton,
+                "car fabric",
+                "truck fabric",
+                fabric,
+                "upcycled fabric",
+                pants,
+                curtain
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 3;
+            occasion = "<null>";
+            "original_creation_tsz" = 1474059573;
+            price = "10.00";
+            "processing_max" = 3;
+            "processing_min" = 1;
+            quantity = 2;
+            recipient = children;
+            "shipping_template_id" = 6646075641;
+            "shop_section_id" = 17551167;
+            state = active;
+            "state_tsz" = 1474059573;
+            style = "<null>";
+            tags =             (
+                "car cozy",
+                toy,
+                matchbox,
+                "matchbox cozy",
+                "little car pouch",
+                "travel pouch car",
+                "car pouch",
+                "car storage",
+                "camping toy",
+                "travel toy",
+                boy,
+                "boy gift",
+                "little car case"
+            );
+            "taxonomy_id" = 1553;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                "Games & Puzzles"
+            );
+            title = "little car cozy for 6 cars with a road and pocket inside";
+            url = "https://www.etsy.com/listing/479325963/little-car-cozy-for-6-cars-with-a-road?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 15189524;
+            views = 72;
+            "when_made" = "2010_2017";
+            "who_made" = "i_did";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484690221;
+            "currency_code" = USD;
+            description = "This is a lot of 8 neat Tyco HO Scale plastic toy vehicles.  These cars\nare in good used condition, showing only light wear from age.  The \nlight blue and one of the darker blue cars have been painted on a \nlittle bit.  Please Review Photos.\n\nEach car measures approx.  2&quot; long.\n\nSnatch up this great set of vintage Tyco automobiles today!\n\n***For shipping and payment information, please refer to the\n&#39;Frequently Asked Questions&#39; section found below.  Thank you.***\n\n***INTERNATIONAL CUSTOMERS, please review our shop policies, found\nbelow in the Frequently Asked Questions section, regarding lost packages \nand returns before placing an order with us. Please contact me with any \nquestions.  Merci! Gracias! Dankie! Takk!***\n\nI am always happy to answer any questions, and look forward \nto helping you find that perfect gift or retro goody you will treasure. \n\nThank you for visiting BigYellowRetro!";
+            "ending_tsz" = 1495054621;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 1;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = 3;
+            "item_length" = 6;
+            "item_weight" = 5;
+            "item_weight_units" = "<null>";
+            "item_width" = 6;
+            language = "en-US";
+            "last_modified_tsz" = 1484693859;
+            "listing_id" = 492269702;
+            materials =             (
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 0;
+            occasion = "<null>";
+            "original_creation_tsz" = 1484612566;
+            price = "7.50";
+            "processing_max" = 2;
+            "processing_min" = 1;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = 27213877279;
+            "shop_section_id" = 18853260;
+            state = active;
+            "state_tsz" = 1484612566;
+            style = "<null>";
+            tags =             (
+                tyco,
+                "tyco toys",
+                "vintage tyco",
+                "1980s toys",
+                "1980s tyco",
+                "tyco ho scale car",
+                "tyco HO scale toys",
+                "train set props",
+                "train set cars",
+                "toy car props",
+                "tyco plastic car",
+                "ho scale cars",
+                "ho scale vehicles"
+            );
+            "taxonomy_id" = 1580;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys
+            );
+            title = "Assortment of 1980&#39;s Tyco Plastic Cars Vintage HO Scale Toy Vehicles";
+            url = "https://www.etsy.com/listing/492269702/assortment-of-1980s-tyco-plastic-cars?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 82612544;
+            views = 1;
+            "when_made" = 1980s;
+            "who_made" = "someone_else";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484690159;
+            "currency_code" = USD;
+            description = "Team Valor Pokemon Go Car Decal/Sticker\n\nThis Team Valor Decal will look good anywhere from a water bottle to a car window. The size and color of your decal are up to you!\n\nPlease let me know if you are looking for something different, We can create almost anything you can dream up!";
+            "ending_tsz" = 1495054559;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 1;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484690159;
+            "listing_id" = 453159678;
+            materials =             (
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 18;
+            occasion = "<null>";
+            "original_creation_tsz" = 1468782137;
+            price = "3.00";
+            "processing_max" = 5;
+            "processing_min" = 3;
+            quantity = 24;
+            recipient = "<null>";
+            "shipping_template_id" = 27313451657;
+            "shop_section_id" = 19541465;
+            state = active;
+            "state_tsz" = 1482366770;
+            style = "<null>";
+            tags =             (
+                "white valor",
+                "red valor",
+                red,
+                car,
+                "car sticker",
+                decal,
+                sticker,
+                "Pokemon valor",
+                "Pokemon go valor",
+                "team valor",
+                valor,
+                "pokemon go",
+                Pokemon
+            );
+            "taxonomy_id" = 1553;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                "Games & Puzzles"
+            );
+            title = "Pokemon Go, Team Valor Car Decal Sticker";
+            url = "https://www.etsy.com/listing/453159678/pokemon-go-team-valor-car-decal-sticker?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 9506149;
+            views = 157;
+            "when_made" = "2010_2017";
+            "who_made" = "i_did";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484689819;
+            "currency_code" = GBP;
+            description = "1980s Collectible Smurfette in Corn Car Toy ~ Die cast Metal. \n\nMade by I Puffi in Italy. 1983.\n\nMeasures approximately 8.5 x 4.5 x 4.5cm\n\nIn good condition but there are some paint chips (see photos).\n\nI post on Mondays, Tuesdays and Saturdays.\n\nReturn to WonderfulChildhood Shop:\nhttps://www.etsy.com/uk/shop/WonderfulChildhood?ref=hdr_shop_menu\n\nCombined Shipping:\nI will happily combine shipping fees for more than one item purchased. Please contact me for an accurate shipping quote - it may well be lower than the estimated shipping costs indicated on my listings! If you have already paid for two or more items I will weigh the entire package, calculate the combined shipping price and refund you any over-payment.";
+            "ending_tsz" = 1495054219;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484689819;
+            "listing_id" = 293912455;
+            materials =             (
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 19;
+            occasion = "<null>";
+            "original_creation_tsz" = 1463343524;
+            price = "5.00";
+            "processing_max" = 5;
+            "processing_min" = 3;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = "<null>";
+            "shop_section_id" = 19511339;
+            state = active;
+            "state_tsz" = 1463343986;
+            style = "<null>";
+            tags =             (
+                "Vintage Smurf",
+                "Smurf car",
+                Smurfette,
+                "Smurf toy",
+                "Corn car",
+                "Metal smurf",
+                "1980s smurf",
+                "Vintage Smurf figure",
+                "1980s car toy",
+                "1980s metal car",
+                "Stocking filler",
+                "Small car",
+                "Vintage car"
+            );
+            "taxonomy_id" = 1584;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys,
+                "Dolls & Action Figures"
+            );
+            title = "1980s Collectible Smurfette in Corn Car Toy. Die cast Metal.";
+            url = "https://www.etsy.com/listing/293912455/1980s-collectible-smurfette-in-corn-car?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 50997025;
+            views = 86;
+            "when_made" = 1980s;
+            "who_made" = "someone_else";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484689743;
+            "currency_code" = USD;
+            description = "2 BOSTON RED SOX Weather and Fade Resistant Cornhole (or they can be placed on other surfaces) Decals. Decals are approximately 12&quot;x12&quot;.\n\nSet of 2 Vinyl decals for your cornhole boards(or they can be placed elsewhere). High quality, durable vinyl with a 7 year lifespan. Each decal comes with a high quality clear transfer backing for easier application---just peel the backing, apply, and remove the transfer tape!\n\nThese stick to finished cornhole boards wonderfully! We recommend sealing the decals to your boards with a clear poly after you have installed the decals on your boards.\n\nWant to mix and match our decals? Simply purchase the listing and indicate the 2 teams you&#39;d like!";
+            "ending_tsz" = 1495054143;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484689743;
+            "listing_id" = 253304663;
+            materials =             (
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 11;
+            occasion = "<null>";
+            "original_creation_tsz" = 1445787898;
+            price = "12.90";
+            "processing_max" = 2;
+            "processing_min" = 1;
+            quantity = 494;
+            recipient = "<null>";
+            "shipping_template_id" = "<null>";
+            "shop_section_id" = 18000215;
+            state = active;
+            "state_tsz" = 1464227556;
+            style = "<null>";
+            tags =             (
+                "EVERYTHING ELSE",
+                CORNHOLE,
+                "CORNHOLE WRAPS",
+                "CORNHOLE DECALS",
+                "CORNHOLE LIGHTS",
+                "WALL DECAL",
+                "CAR TRUCK DECAL",
+                "CORNHOLE BAGS",
+                MLB,
+                "BOSTON RED SOX"
+            );
+            "taxonomy_id" = 2379;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                "Sports & Outdoor Recreation",
+                "Lawn Games",
+                "Bean Bag Toss"
+            );
+            title = "BOSTON RED SOX Set of 2 Vinyl Cornhole Decal Logo Wall Sticker Car Truck 12&quot; Size";
+            url = "https://www.etsy.com/listing/253304663/boston-red-sox-set-of-2-vinyl-cornhole?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 70418390;
+            views = 1033;
+            "when_made" = "made_to_order";
+            "who_made" = collective;
+        },
+                {
+            "category_id" = 68889208;
+            "category_path" =             (
+                Toys,
+                Children
+            );
+            "category_path_ids" =             (
+                69150393,
+                68889208
+            );
+            "creation_tsz" = 1484689415;
+            "currency_code" = EUR;
+            description = "We are parents of 4 wonderful daughters and all our toys are made to make the kids happy, to create the playing fun without computers, tablets and TV . \nCar- constructor helps to develop imagination, coordination, counting and many other skills. \nTo have a nice feeling, all corners are rounded.\n\nThe toys have unique design, made by my husband Edijs and they all are made by hand with love and care. \nTo make our toys we use Latvian ash and birch. The structure of ash wood is unrepeatable and never not the same. You will have the toy with exclusive wood pattern.\nWe don&#39;t use colors and treat the toys only with linseed oil.";
+            "ending_tsz" = 1495053815;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 1;
+            "is_customizable" = 0;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484689415;
+            "listing_id" = 483025480;
+            materials =             (
+                "Asch wood"
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 0;
+            occasion = "<null>";
+            "original_creation_tsz" = 1480863292;
+            price = "11.90";
+            "processing_max" = 3;
+            "processing_min" = 1;
+            quantity = 2;
+            recipient = children;
+            "shipping_template_id" = "<null>";
+            "shop_section_id" = "<null>";
+            state = active;
+            "state_tsz" = 1480863292;
+            style =             (
+                Fantasy,
+                Woodland
+            );
+            tags =             (
+                "Eco style",
+                Natural
+            );
+            "taxonomy_id" = 2055;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys,
+                "Baby & Toddler Toys",
+                "Stacking & Nesting"
+            );
+            title = "Free Shipping Baby cars woodland, natural, solid ash wood, treated with linseed oil, handmade, Eco, Wooden Lotes Toys for boy Family";
+            url = "https://www.etsy.com/listing/483025480/free-shipping-baby-cars-woodland-natural?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 86103078;
+            views = 4;
+            "when_made" = "2010_2017";
+            "who_made" = "i_did";
+        },
+                {
+            "category_id" = 69150393;
+            "category_path" =             (
+                Toys
+            );
+            "category_path_ids" =             (
+                69150393
+            );
+            "creation_tsz" = 1484688483;
+            "currency_code" = USD;
+            description = "In stock ready to ready to ship.\n\n$ave 10% off already low prices.\nIf purchased individually prices would total $17.60\n\n Pkg of 10  Handcrafted Wood Toy Cars. Size varies from approx. 2.25  in. to 4.75  in. lg x 1 in. to 1.5  in. high. All have .75  in. thk bodies, .75 in. dia turned maple wheels and are unfinished and can be left the natural finish, painted, or stained. \n\n\nIf you would like them finished I can apply a clear non-toxic (child safe) oil finish at no extra charge. Just let me know at time of purchase that you would like the finish and allow 3 extra business days , for application and drying of finish, before order is shipped. \n\nNO nails or screws are used in the making of these toys. Only non toxic wood glue is used. All wheels and axles turn freely. \n\nNot for children under 3 years of age.   \n\n\nHandcrafted in Montezuma, Iowa\n\nSpecial Orders Welcome. \n\nGreat for Child\U2019s Birthday Parties, Craft Projects, Stocking Stuffers etc. \n\nREAL handcrafted\nNOT mass produced\nNOT laser cut\nNOT MDF (Medium-density fiberboard) \n\nShipping will be combined on orders of more than 1 item to save on shipping. Actual shipping costs may be lower than indicated on some items and, if so, a refund will be issued. Please see Shop Policies.";
+            "ending_tsz" = 1495052883;
+            "featured_rank" = "<null>";
+            "file_data" = "";
+            "has_variations" = 0;
+            "is_customizable" = 1;
+            "is_digital" = 0;
+            "is_private" = 0;
+            "is_supply" = false;
+            "item_dimensions_unit" = in;
+            "item_height" = "<null>";
+            "item_length" = "<null>";
+            "item_weight" = "<null>";
+            "item_weight_units" = "<null>";
+            "item_width" = "<null>";
+            language = "en-US";
+            "last_modified_tsz" = 1484692127;
+            "listing_id" = 505969199;
+            materials =             (
+                pine,
+                "birch axles",
+                "turned maple wheels",
+                "non toxic glue"
+            );
+            "non_taxable" = 0;
+            "num_favorers" = 0;
+            occasion = "<null>";
+            "original_creation_tsz" = 1484688483;
+            price = "15.84";
+            "processing_max" = 2;
+            "processing_min" = 1;
+            quantity = 1;
+            recipient = "<null>";
+            "shipping_template_id" = 13544142;
+            "shop_section_id" = 6731026;
+            state = active;
+            "state_tsz" = 1484688483;
+            style = "<null>";
+            tags =             (
+                "Wood toy cars",
+                "wood toys",
+                "party favors",
+                "stocking stuffers",
+                "unfinished toys",
+                "finished toys",
+                "non toxic finish",
+                "scroll sawn",
+                "made in USA",
+                "wooden toys",
+                handcrafted,
+                handmade,
+                woodcraft
+            );
+            "taxonomy_id" = 1622;
+            "taxonomy_path" =             (
+                "Toys & Games",
+                Toys,
+                "Push & Pull Toys",
+                Vehicles
+            );
+            title = "10 Handcrafted Wood Toy Cars  OT-77  unfinished or finished";
+            url = "https://www.etsy.com/listing/505969199/10-handcrafted-wood-toy-cars-ot-77?utm_source=testcandidateapp&utm_medium=api&utm_campaign=api";
+            "used_manufacturer" = 0;
+            "user_id" = 9073401;
+            views = 11;
+            "when_made" = "2010_2017";
+            "who_made" = "i_did";
+        }
+    );
+    type = Listing;
+}

@@ -19,13 +19,20 @@
 		840707DA1E2B0AD200766E51 /* AHListingsCollectionViewFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 840707D91E2B0AD200766E51 /* AHListingsCollectionViewFlowLayout.m */; };
 		840707DE1E2B0F3000766E51 /* AHAlertManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 840707DD1E2B0F3000766E51 /* AHAlertManager.m */; };
 		843F9C4F1E2BC5CD004E71FE /* ListingItem+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 843F9C4D1E2BC5CD004E71FE /* ListingItem+CoreDataProperties.m */; };
+		84537A311E2ED95F00604D52 /* categories.json in Resources */ = {isa = PBXBuildFile; fileRef = 84537A301E2ED95F00604D52 /* categories.json */; };
+		84537A331E2EE39400604D52 /* listings.json in Resources */ = {isa = PBXBuildFile; fileRef = 84537A321E2EE39400604D52 /* listings.json */; };
+		84537A351E2EE63100604D52 /* listingImages.json in Resources */ = {isa = PBXBuildFile; fileRef = 84537A341E2EE63100604D52 /* listingImages.json */; };
 		848241A11E293527005D342A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 848241A01E293527005D342A /* main.m */; };
 		848241A41E293527005D342A /* AHAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 848241A31E293527005D342A /* AHAppDelegate.m */; };
 		848241AA1E293527005D342A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 848241A81E293527005D342A /* Main.storyboard */; };
 		848241AF1E293527005D342A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 848241AE1E293527005D342A /* Assets.xcassets */; };
 		848241B21E293527005D342A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 848241B01E293527005D342A /* LaunchScreen.storyboard */; };
 		848241BD1E293527005D342A /* AHListingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 848241BC1E293527005D342A /* AHListingTests.m */; };
+		84BFD16F1E2EBC9E00664D41 /* AHTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BFD16E1E2EBC9E00664D41 /* AHTestCase.m */; };
+		84BFD1711E2EBEC500664D41 /* AHTestCaseIT.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BFD1701E2EBEC500664D41 /* AHTestCaseIT.m */; };
+		84BFD1731E2EBF5300664D41 /* AHFeedServiceIT.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BFD1721E2EBF5300664D41 /* AHFeedServiceIT.m */; };
 		8902049196D17E2CC224E41A /* libPods-AHListingTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C50FFA37B06BFBF08A7171F /* libPods-AHListingTests.a */; };
+		D20FBDC8F0CDBA7DF70C7C3A /* libPods-AHListing-AHListingTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 358E432D01D6FADC24760652 /* libPods-AHListing-AHListingTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,10 +47,12 @@
 
 /* Begin PBXFileReference section */
 		08C1C9C09E878D78E3B332A6 /* Pods-AHListing.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AHListing.release.xcconfig"; path = "Pods/Target Support Files/Pods-AHListing/Pods-AHListing.release.xcconfig"; sourceTree = "<group>"; };
+		358E432D01D6FADC24760652 /* libPods-AHListing-AHListingTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AHListing-AHListingTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F95D98EED52B4C5C9BC6607 /* Pods-AHListing.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AHListing.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AHListing/Pods-AHListing.debug.xcconfig"; sourceTree = "<group>"; };
 		4B074623792A15E7A5A3A9BA /* Pods-AHListingTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AHListingTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AHListingTests/Pods-AHListingTests.release.xcconfig"; sourceTree = "<group>"; };
 		4C50FFA37B06BFBF08A7171F /* libPods-AHListingTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AHListingTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		588CD39EC99962EAF73A34ED /* libPods-AHListing.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AHListing.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		67664A5B8B0EDA24DB3F5866 /* Pods-AHListing-AHListingTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AHListing-AHListingTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AHListing-AHListingTests/Pods-AHListing-AHListingTests.release.xcconfig"; sourceTree = "<group>"; };
 		7518026FB21A0113CB58F68C /* Pods-AHListingTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AHListingTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AHListingTests/Pods-AHListingTests.debug.xcconfig"; sourceTree = "<group>"; };
 		840707791E2A87E900766E51 /* AHListing.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AHListing.xcdatamodel; sourceTree = "<group>"; };
 		840707AD1E2AA04F00766E51 /* AHRestManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AHRestManager.h; sourceTree = "<group>"; };
@@ -68,6 +77,9 @@
 		843F9C4B1E2BC5CD004E71FE /* ListingItem+CoreDataClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ListingItem+CoreDataClass.m"; sourceTree = "<group>"; };
 		843F9C4C1E2BC5CD004E71FE /* ListingItem+CoreDataProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ListingItem+CoreDataProperties.h"; sourceTree = "<group>"; };
 		843F9C4D1E2BC5CD004E71FE /* ListingItem+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ListingItem+CoreDataProperties.m"; sourceTree = "<group>"; };
+		84537A301E2ED95F00604D52 /* categories.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = categories.json; sourceTree = "<group>"; };
+		84537A321E2EE39400604D52 /* listings.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = listings.json; sourceTree = "<group>"; };
+		84537A341E2EE63100604D52 /* listingImages.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = listingImages.json; sourceTree = "<group>"; };
 		8482419C1E293527005D342A /* AHListing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AHListing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		848241A01E293527005D342A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		848241A21E293527005D342A /* AHAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AHAppDelegate.h; sourceTree = "<group>"; };
@@ -79,6 +91,11 @@
 		848241B81E293527005D342A /* AHListingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AHListingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		848241BC1E293527005D342A /* AHListingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AHListingTests.m; sourceTree = "<group>"; };
 		848241BE1E293527005D342A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84BFD16E1E2EBC9E00664D41 /* AHTestCase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AHTestCase.m; sourceTree = "<group>"; };
+		84BFD1701E2EBEC500664D41 /* AHTestCaseIT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AHTestCaseIT.m; sourceTree = "<group>"; };
+		84BFD1721E2EBF5300664D41 /* AHFeedServiceIT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AHFeedServiceIT.m; sourceTree = "<group>"; };
+		84BFD1741E2ECA1800664D41 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		BCBCDAA4CFF3C1450712B65C /* Pods-AHListing-AHListingTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AHListing-AHListingTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AHListing-AHListingTests/Pods-AHListing-AHListingTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +112,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8902049196D17E2CC224E41A /* libPods-AHListingTests.a in Frameworks */,
+				D20FBDC8F0CDBA7DF70C7C3A /* libPods-AHListing-AHListingTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +316,7 @@
 			isa = PBXGroup;
 			children = (
 				848241A01E293527005D342A /* main.m */,
+				84BFD1741E2ECA1800664D41 /* PrefixHeader.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -306,6 +325,12 @@
 			isa = PBXGroup;
 			children = (
 				848241BC1E293527005D342A /* AHListingTests.m */,
+				84BFD16E1E2EBC9E00664D41 /* AHTestCase.m */,
+				84BFD1701E2EBEC500664D41 /* AHTestCaseIT.m */,
+				84BFD1721E2EBF5300664D41 /* AHFeedServiceIT.m */,
+				84537A341E2EE63100604D52 /* listingImages.json */,
+				84537A321E2EE39400604D52 /* listings.json */,
+				84537A301E2ED95F00604D52 /* categories.json */,
 				848241BE1E293527005D342A /* Info.plist */,
 			);
 			path = AHListingTests;
@@ -318,6 +343,8 @@
 				08C1C9C09E878D78E3B332A6 /* Pods-AHListing.release.xcconfig */,
 				7518026FB21A0113CB58F68C /* Pods-AHListingTests.debug.xcconfig */,
 				4B074623792A15E7A5A3A9BA /* Pods-AHListingTests.release.xcconfig */,
+				BCBCDAA4CFF3C1450712B65C /* Pods-AHListing-AHListingTests.debug.xcconfig */,
+				67664A5B8B0EDA24DB3F5866 /* Pods-AHListing-AHListingTests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -327,6 +354,7 @@
 			children = (
 				588CD39EC99962EAF73A34ED /* libPods-AHListing.a */,
 				4C50FFA37B06BFBF08A7171F /* libPods-AHListingTests.a */,
+				358E432D01D6FADC24760652 /* libPods-AHListing-AHListingTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -431,6 +459,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84537A351E2EE63100604D52 /* listingImages.json in Resources */,
+				84537A331E2EE39400604D52 /* listings.json in Resources */,
+				84537A311E2ED95F00604D52 /* categories.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -494,7 +525,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AHListingTests/Pods-AHListingTests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AHListing-AHListingTests/Pods-AHListing-AHListingTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		BFB2FA674CFCDF4D308F673B /* [CP] Embed Pods Frameworks */ = {
@@ -509,7 +540,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AHListingTests/Pods-AHListingTests-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AHListing-AHListingTests/Pods-AHListing-AHListingTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		F6CCC7E0BE355A1E5C36B280 /* [CP] Check Pods Manifest.lock */ = {
@@ -554,7 +585,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84BFD16F1E2EBC9E00664D41 /* AHTestCase.m in Sources */,
 				848241BD1E293527005D342A /* AHListingTests.m in Sources */,
+				84BFD1711E2EBEC500664D41 /* AHTestCaseIT.m in Sources */,
+				84BFD1731E2EBF5300664D41 /* AHFeedServiceIT.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -706,11 +740,21 @@
 		};
 		848241C51E293527005D342A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7518026FB21A0113CB58F68C /* Pods-AHListingTests.debug.xcconfig */;
+			baseConfigurationReference = BCBCDAA4CFF3C1450712B65C /* Pods-AHListing-AHListingTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = AHListingTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-l\"OCMock\"",
+					"-l\"OHHTTPStubs\"",
+					"-framework",
+					"\"CFNetwork\"",
+					"-framework",
+					"\"Foundation\"",
+					"-ObjC",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = test.listing.com.AHListingTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AHListing.app/AHListing";
@@ -719,11 +763,21 @@
 		};
 		848241C61E293527005D342A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4B074623792A15E7A5A3A9BA /* Pods-AHListingTests.release.xcconfig */;
+			baseConfigurationReference = 67664A5B8B0EDA24DB3F5866 /* Pods-AHListing-AHListingTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = AHListingTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-l\"OCMock\"",
+					"-l\"OHHTTPStubs\"",
+					"-framework",
+					"\"CFNetwork\"",
+					"-framework",
+					"\"Foundation\"",
+					"-ObjC",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = test.listing.com.AHListingTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AHListing.app/AHListing";
