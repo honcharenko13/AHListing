@@ -18,6 +18,10 @@
         self.price = [NSString stringWithFormat:@"%@ %@", responseDictionary[@"price"],
                       responseDictionary[@"currency_code"]];
         self.listingId = responseDictionary[@"listing_id"];
+        NSArray *imagesArray = responseDictionary[@"Images"];
+        NSDictionary *firstImageDictionary = imagesArray[0];
+        self.imageThumbnailUrl = firstImageDictionary[@"url_170x135"];
+        self.imageFulllUrl = firstImageDictionary[@"url_fullxfull"];
     }
     return self;
 }

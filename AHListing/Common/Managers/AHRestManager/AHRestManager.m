@@ -59,7 +59,7 @@ static NSString const *kAHRestManagerCategoryNameKeyString = @"category_name";
 - (void)getListingListWithCategoryName:(NSString *)categoryName keywords:(NSString *)keywords
                                  count:(double)count offset:(double)offset
                              onSuccess:(BlockSuccess)blockArray onFailure:(BlockError)blockError {
-    NSString *stringUrl = [NSString stringWithFormat:@"%@%@%@&category=%@&keywords=%@&limit=%f&offset=%f", kAHRestManagerBasicUrl,
+    NSString *stringUrl = [NSString stringWithFormat:@"%@%@%@&category=%@&keywords=%@&limit=%f&offset=%f&includes=Images", kAHRestManagerBasicUrl,
                            kAHRestManagerGetListingsPartUrl, kAHRestManagerApiKey, categoryName, keywords, count, offset];
     [[AFHTTPSessionManager manager] GET:stringUrl parameters:nil
                                 success:^(NSURLSessionDataTask * _Nonnull task, id  _Nonnull responseObject) {
@@ -78,25 +78,6 @@ static NSString const *kAHRestManagerCategoryNameKeyString = @"category_name";
         }
     }];
     
-}
-
-- (void)getImageUrlWithListingId:(NSNumber *)listingId onSuccess:(BlockImageSuccess)blockSuccess
-                       onFailure:(BlockError)blockError {
-    NSString *stringUrl = [NSString stringWithFormat:@"%@listings/%@/images%@", kAHRestManagerBasicUrl,
-                           listingId, kAHRestManagerApiKey];
-    [[AFHTTPSessionManager manager] GET:stringUrl parameters:nil success:^(NSURLSessionDataTask * _Nonnull task, id  _Nonnull responseObject) {
-        NSArray *imagesArray = responseObject[@"results"];
-        NSDictionary *firstImageDictionary = imagesArray[0];
-        NSString *thumbnailUrlString = firstImageDictionary[@"url_170x135"];
-        NSString *fullUrlString = firstImageDictionary[@"url_fullxfull"];
-        if (blockSuccess) {
-            blockSuccess(fullUrlString, thumbnailUrlString);
-        }
-     } failure:^(NSURLSessionDataTask * _Nullable task, NSError * _Nonnull error) {
-         if (blockError) {
-             blockError(error);
-         }
-     }];
 }
 
 @end

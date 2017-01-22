@@ -30,16 +30,6 @@
 - (void)configureCellWithParsedListing:(AHParsedListing *)listing {
     self.listingNameLabel.text = listing.name;
     [self.listingImageView sd_setImageWithURL:[NSURL URLWithString:listing.imageThumbnailUrl]];
-    if (listing.imageThumbnailUrl) {
-        [self.listingImageView sd_setImageWithURL:[NSURL URLWithString:listing.imageThumbnailUrl]];
-    } else {
-        [[AHRestManager sharedInstance] getImageUrlWithListingId:listing.listingId
-                                                       onSuccess:^(NSString *fullUrl, NSString *thumbnailUrl) {
-                                                           listing.imageFulllUrl = fullUrl;
-                                                           listing.imageThumbnailUrl = thumbnailUrl;
-                                                           [self.listingImageView sd_setImageWithURL:[NSURL URLWithString:listing.imageThumbnailUrl]];
-                                                       } onFailure:^(NSError *error) { }];
-    }
 }
 
 - (void)configureCellWithSavedListing:(ListingItem *)listing {
